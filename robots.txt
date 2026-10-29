@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abclinic.com.my/sitemap.xml
